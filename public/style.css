@@ -1,0 +1,26 @@
+fieldset{
+    border-radius: 7%;
+    text-align: justify;
+    background-color: unset;
+    color: white;
+
+}
+
+section{
+    text-align: center;
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    margin-top: 5%;
+    border: 1px white solid;
+}
